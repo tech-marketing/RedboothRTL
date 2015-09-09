@@ -16,7 +16,7 @@
 		"128":"images/128.png"
 	},
 	"browser_action": {
-		"name": "Enable RTL On TeamBox",
+		"name": "Enable RTL On Redbooth",
 		"default_icon": {
 			"19":"images/16.png",
 			"38":"images/48.png"
