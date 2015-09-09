@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+body{direction: ltr;}
+/*.rtl p.excerpt{direction: rtl;}
+.rtl .body.textilized{direction: rtl;}
+.rtl textarea#msgbox{direction: rtl; text-align: right;}
+.rtl .message blockquote .line {direction: rtl;}*/
+.rtl .tb-stream .tb-element .tb-element-title-inner h3{direction: rtl;}
+.rtl .tb-element-big .tb-element-title h3{direction: rtl;}
+.rtl .tb-comments-wrap .tb-comment-body{direction: rtl;}
+.rtl .form-cb .form-cb-markdown-help{right: auto; left: 6px;}
+.rtl .form-cb textarea{direction: rtl;}
+.rtl .tb-modal-body .form-unit .js-name, 
+.rtl .teambox #redactor_modal section .form-unit .js-name{direction:rtl;}
+.rtl .js-description-content{direction: rtl;}
+.rtl .tb-element-title{direction: rtl;}
+.rtl .cb .object-description .cmenu{float: left; left: auto;}
+.rtl .tb-element .tb-element-meta{margin-right: 5px; margin-left: 0; float: left;}
